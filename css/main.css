@@ -227,7 +227,7 @@ nav a:hover {
    }
 
    #contact {
-     background: #AEB6BA;
+     background: #ebebeb;
      border-top: 1px solid rgba(#000, .8);
    }
 
@@ -238,7 +238,7 @@ nav a:hover {
    .blue-circle {
      width: 100%;
      padding-bottom: 100%;
-     background-color: #aeb6ba;
+     background-color: transparent;
      border-radius: 50%;
      -moz-border-radius: 50%;
      -webkit- border-radius: 50%;
