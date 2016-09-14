@@ -283,7 +283,6 @@ nav a:hover {
 
    header {
      position: relative;
-     z-index: 999;
      background: #fff;
    }
 
@@ -343,7 +342,10 @@ nav a:hover {
      background-attachment: fixed;
      background-size: cover;
    }
-
+   #aboutParag {
+     position: relative;
+     z-index: 5;
+   }
    .twitter-timeline {
      width: 100%;
      margin: 0;
