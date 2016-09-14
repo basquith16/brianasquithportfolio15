@@ -428,9 +428,6 @@ section#download .platforms > div {
   -webkit-animation-duration: 3s;
   margin: 10% 0 5% 60%;
   height: 300px;
-  -webkit-box-shadow: 0 5px 10px #aaa;
-     -moz-box-shadow: 0 5px 10px #aaa;
-          box-shadow: 0 5px 10px #aaa;
 }
 
 .attributes {
