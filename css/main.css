@@ -312,9 +312,7 @@ nav a:hover {
    }
 
    section#features {
-     background: url('../img/skillsBG.jpeg');
-     background-size: cover;
-     background-position: 50% 50%;
+     background: #335C67;
    }
 
    .item-feature {
@@ -444,9 +442,6 @@ section#download .platforms > div {
 }
 ul li {
   color: #fff;
-  text-shadow: 0px 1px 1px black;
-  -moz-text-shadow: 0px 1px 1px black;
-  -webkit-text-shadow: 0px 1px 1px black;
 }
 
 .listHeadlines {
@@ -454,9 +449,6 @@ ul li {
   color: #fff;
   font-weight: 300;
   letter-spacing: .05em;
-  text-shadow: 0px 1px 1px black;
-  -moz-text-shadow: 0px 1px 1px black;
-  -webkit-text-shadow: 0px 1px 1px black;
 }
 
 #lifeLyrics {
@@ -468,9 +460,6 @@ ul li {
   letter-spacing: .05em;
   text-transform: uppercase;
   color: #fff;
-  text-shadow: 0px 1px 1px black;
-  -moz-text-shadow: 0px 1px 1px black;
-  -webkit-text-shadow: 0px 1px 1px black;
 }
 
 
